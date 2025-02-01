@@ -1,7 +1,7 @@
 # Hello Visitors❗, Greetings form Tharvesh Muhaideen A
 
 # 💫 About Me:
-🔭 I’m currently Pursuing ECE (3rd Yr)<br>👯 I’m Currently to Working on Developing [ATS Based "Virtual HR Assistant"](https://tharvesh2026.eu.pythonanywhere.com/)<br>🤝 I’m looking for help with Python Knowledge<br>🌱 I’m currently learning Chat-Bot Development<br>💬 Ask me about Python<br>⚡ Favorite Book : Power Of Subconscious Mind, The 48 laws of Power, Atmoic Habbits
+🔭 I’m currently Pursuing ECE (3rd Yr)<br>👯 I’m Currently to Working on Developing AI Local Desktop Assistant Powered By Python" <br>🤝 I’m looking for help with Python Knowledge<br>🌱 I’m currently learning Chat-Bot Development<br>💬 Ask me about Python<br>⚡ Favorite Book : Power Of Subconscious Mind, The 48 laws of Power, Atmoic Habbits
 
 
 ## 🌐 Socials:
